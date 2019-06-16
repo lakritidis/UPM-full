@@ -1,0 +1,496 @@
+# depslib dependency file v1.0
+1555620048 source:/home/leo/Desktop/UPM/main.cpp
+	"stdio.h"
+	"stdlib.h"
+	<stdint.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<cmph.h>
+	"src/AssistantData.cpp"
+	"src/Statistics.cpp"
+	"src/Token.cpp"
+	"src/TokensLexicon.cpp"
+	"src/Combination.cpp"
+	"src/CombinationsLexicon.cpp"
+	"src/Product.cpp"
+	"src/Vendor.cpp"
+	"src/Cluster.cpp"
+	"src/ProductsClusters.cpp"
+	"src/ForwardIndex.cpp"
+	"src/Evaluation.cpp"
+	"stdio.h"
+	"stdlib.h"
+	<stdint.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<cmph.h>
+	"src/AssistantData.cpp"
+	"src/Statistics.cpp"
+	"src/Token.cpp"
+	"src/TokensLexicon.cpp"
+	"src/Combination.cpp"
+	"src/CombinationsLexicon.cpp"
+	"src/Product.cpp"
+	"src/Vendor.cpp"
+	"src/Cluster.cpp"
+	"src/ProductsClusters.cpp"
+	"src/ForwardIndex.cpp"
+	"src/eval/Evaluation.cpp"
+	"stdio.h"
+	"stdlib.h"
+	<stdint.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<cmph.h>
+	"src/Statistics.cpp"
+	"src/Token.cpp"
+	"src/TokensLexicon.cpp"
+	"src/Combination.cpp"
+	"src/CombinationsLexicon.cpp"
+	"src/Product.cpp"
+	"src/Vendor.cpp"
+	"src/Cluster.cpp"
+	"src/ProductsClusters.cpp"
+	"src/ForwardIndex.cpp"
+	"src/eval/Evaluation.cpp"
+	"stdio.h"
+	"stdlib.h"
+	<stdint.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<algorithm>
+	<cmph.h>
+	"src/Statistics.cpp"
+	"src/Token.cpp"
+	"src/TokensLexicon.cpp"
+	"src/Combination.cpp"
+	"src/CombinationsLexicon.cpp"
+	"src/Product.cpp"
+	"src/Vendor.cpp"
+	"src/Cluster.cpp"
+	"src/ProductsClusters.cpp"
+	"src/ForwardIndex.cpp"
+	"src/eval/Evaluation.cpp"
+	"stdio.h"
+	"stdlib.h"
+	<stdint.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<algorithm>
+	<cmph.h>
+	"src/Statistics.cpp"
+	"src/Token.cpp"
+	"src/TokensLexicon.cpp"
+	"src/Combination.cpp"
+	"src/CombinationsLexicon.cpp"
+	"src/Product.cpp"
+	"src/Vendor.cpp"
+	"src/Cluster.cpp"
+	"src/ProductsClusters.cpp"
+	"src/ForwardIndex.cpp"
+	"src/eval/Evaluation.cpp"
+
+1555685072 Evaluation.cpp"
+
+1554994584 ation.cpp"
+
+1538058000 /home/leo/Desktop/UPM/src/AssistantData.cpp
+	"AssistantData.h"
+	"AssistantData.h"
+	"AssistantData.h"
+
+1538058000 Data.h"
+
+1538058000 /home/leo/Desktop/UPM/src/AssistantData.h
+
+1555016734 /home/leo/Desktop/UPM/src/Statistics.cpp
+	"Statistics.h"
+	"Statistics.h"
+	"Statistics.h"
+	"Statistics.h"
+	"Statistics.h"
+
+1555016734 s.h"
+
+1541202722 /home/leo/Desktop/UPM/src/Statistics.h
+
+1555016798 /home/leo/Desktop/UPM/src/Token.cpp
+	"Token.h"
+	"Token.h"
+	"Token.h"
+	"Token.h"
+	"Token.h"
+
+1555600964 
+
+1541792724 /home/leo/Desktop/UPM/src/Token.h
+
+1555592752 /home/leo/Desktop/UPM/src/TokensLexicon.cpp
+	"TokensLexicon.h"
+	"TokensLexicon.h"
+	"TokensLexicon.h"
+	"TokensLexicon.h"
+	"TokensLexicon.h"
+
+1555592752 icon.h"
+
+1555334266 /home/leo/Desktop/UPM/src/TokensLexicon.h
+
+1555016798 /home/leo/Desktop/UPM/src/Combination.cpp
+	"Combination.h"
+	"Combination.h"
+	"Combination.h"
+	"Combination.h"
+	"Combination.h"
+
+1555016798 on.h"
+
+1541698646 /home/leo/Desktop/UPM/src/Combination.h
+
+1555016798 /home/leo/Desktop/UPM/src/CombinationsLexicon.cpp
+	"CombinationsLexicon.h"
+	"CombinationsLexicon.h"
+	"CombinationsLexicon.h"
+	"CombinationsLexicon.h"
+	"CombinationsLexicon.h"
+
+1555016798 onsLexicon.h"
+
+1541536216 /home/leo/Desktop/UPM/src/CombinationsLexicon.h
+
+1555343998 /home/leo/Desktop/UPM/src/Product.cpp
+	"Product.h"
+	"Product.h"
+	"Product.h"
+	"Product.h"
+	"Product.h"
+
+1555343144 "
+
+1555344038 /home/leo/Desktop/UPM/src/Product.h
+
+1555343144 /home/leo/Desktop/UPM/src/Cluster.cpp
+	"Cluster.h"
+	"Cluster.h"
+	"Cluster.h"
+	"Cluster.h"
+	"Cluster.h"
+
+1555191426 /home/leo/Desktop/UPM/src/Cluster.h
+
+1555633631 /home/leo/Desktop/UPM/src/ProductsClusters.cpp
+	"ProductsClusters.h"
+	"ProductsClusters.h"
+	"ProductsClusters.h"
+	"ProductsClusters.h"
+	"ProductsClusters.h"
+
+1555685695 lusters.h"
+
+1555621886 /home/leo/Desktop/UPM/src/ProductsClusters.h
+
+1555621899 /home/leo/Desktop/UPM/src/ForwardIndex.cpp
+	"ForwardIndex.h"
+	"ForwardIndex.h"
+	"ForwardIndex.h"
+	"ForwardIndex.h"
+	"ForwardIndex.h"
+
+1555621900 dex.h"
+
+1555103940 /home/leo/Desktop/UPM/src/ForwardIndex.h
+
+1555272625 /home/leo/Desktop/UPM/src/Evaluation.cpp
+
+1553297142 source:/home/leo/Desktop/UPM/src/Vendor.cpp
+	"Vendor.h"
+
+1555148672 /home/leo/Desktop/UPM/src/Vendor.h
+
+1555363660 /home/leo/Desktop/UPM/src/Vendor.cpp
+	"Vendor.h"
+	"Vendor.h"
+	"Vendor.h"
+	"Vendor.h"
+	"Vendor.h"
+
+1555685072 source:c:\users\leon\documents\upm\main.cpp
+	"stdio.h"
+	"stdlib.h"
+	<stdint.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<algorithm>
+	<cmph.h>
+	"src/Statistics.cpp"
+	"src/Token.cpp"
+	"src/TokensLexicon.cpp"
+	"src/Combination.cpp"
+	"src/CombinationsLexicon.cpp"
+	"src/Product.cpp"
+	"src/Vendor.cpp"
+	"src/Cluster.cpp"
+	"src/ProductsClusters.cpp"
+	"src/ForwardIndex.cpp"
+	"src/eval/Evaluation.cpp"
+
+1538058000 c:\users\leon\documents\upm\src\assistantdata.cpp
+	"AssistantData.h"
+
+1538058000 c:\users\leon\documents\upm\src\assistantdata.h
+
+1555016734 c:\users\leon\documents\upm\src\statistics.cpp
+	"Statistics.h"
+
+1541202722 c:\users\leon\documents\upm\src\statistics.h
+
+1555016798 c:\users\leon\documents\upm\src\token.cpp
+	"Token.h"
+
+1541792724 c:\users\leon\documents\upm\src\token.h
+
+1555592752 c:\users\leon\documents\upm\src\tokenslexicon.cpp
+	"TokensLexicon.h"
+
+1555334266 c:\users\leon\documents\upm\src\tokenslexicon.h
+
+1555016798 c:\users\leon\documents\upm\src\combination.cpp
+	"Combination.h"
+
+1541698646 c:\users\leon\documents\upm\src\combination.h
+
+1555016798 c:\users\leon\documents\upm\src\combinationslexicon.cpp
+	"CombinationsLexicon.h"
+
+1541536216 c:\users\leon\documents\upm\src\combinationslexicon.h
+
+1555343998 c:\users\leon\documents\upm\src\product.cpp
+	"Product.h"
+
+1555344038 c:\users\leon\documents\upm\src\product.h
+
+1555343144 c:\users\leon\documents\upm\src\cluster.cpp
+	"Cluster.h"
+
+1555191426 c:\users\leon\documents\upm\src\cluster.h
+
+1555685695 c:\users\leon\documents\upm\src\productsclusters.cpp
+	"ProductsClusters.h"
+
+1555621886 c:\users\leon\documents\upm\src\productsclusters.h
+
+1555621900 c:\users\leon\documents\upm\src\forwardindex.cpp
+	"ForwardIndex.h"
+
+1555103940 c:\users\leon\documents\upm\src\forwardindex.h
+
+1555001156 c:\users\leon\documents\upm\src\evaluation.cpp
+
+1555363660 c:\users\leon\documents\upm\src\vendor.cpp
+	"Vendor.h"
+
+1555148672 c:\users\leon\documents\upm\src\vendor.h
+
+1555603984 /home/leo/Desktop/UPM/src/eval/Evaluation.cpp
+	"Entity.cpp"
+	"Entities.cpp"
+	"Entity.cpp"
+	"Entities.cpp"
+	"Entity.cpp"
+	"Entities.cpp"
+	"Entity.cpp"
+	"EntityVendor.cpp"
+	"EntitiesCluster.cpp"
+	"Entities.cpp"
+
+1555687083 cpp"
+
+1555600964 /home/leo/Desktop/UPM/src/eval/Entity.cpp
+	"Entity.h"
+	"Entity.h"
+	"Entity.h"
+	"Entity.h"
+
+1555600964 /home/leo/Desktop/UPM/src/eval/Entity.h
+
+1555633805 /home/leo/Desktop/UPM/src/eval/Entities.cpp
+	"Entities.h"
+	"Entities.h"
+	"Entities.h"
+	"Entities.h"
+
+1555686460 h"
+
+1555632714 /home/leo/Desktop/UPM/src/eval/Entities.h
+
+1555687083 c:\users\leon\documents\upm\src\eval\evaluation.cpp
+	"Entity.cpp"
+	"EntityVendor.cpp"
+	"EntitiesCluster.cpp"
+	"ClustersSimilarity.cpp"
+	"Heap.cpp"
+	"Entities.cpp"
+
+1555600964 c:\users\leon\documents\upm\src\eval\entity.cpp
+	"Entity.h"
+
+1555600964 c:\users\leon\documents\upm\src\eval\entity.h
+
+1555686460 c:\users\leon\documents\upm\src\eval\entities.cpp
+	"Entities.h"
+
+1555685561 c:\users\leon\documents\upm\src\eval\entities.h
+
+1555628376 c:\users\leon\documents\upm\src\eval\entitiescluster.cpp
+	"EntitiesCluster.h"
+
+1555628376 luster.h"
+
+1555687183 c:\users\leon\documents\upm\src\eval\entitiescluster.h
+
+1555628548 c:\users\leon\documents\upm\src\eval\entityvendor.cpp
+	"EntityVendor.h"
+
+1555628548 dor.h"
+
+1555628338 c:\users\leon\documents\upm\src\eval\entityvendor.h
+
+1555628548 /home/leo/Desktop/UPM/src/eval/EntityVendor.cpp
+	"EntityVendor.h"
+
+1555628338 /home/leo/Desktop/UPM/src/eval/EntityVendor.h
+
+1555628376 /home/leo/Desktop/UPM/src/eval/EntitiesCluster.cpp
+	"EntitiesCluster.h"
+
+1555628385 /home/leo/Desktop/UPM/src/eval/EntitiesCluster.h
+
+1555686544 source:c:\users\leon\documents\upm\src\eval\heap.cpp
+	"Heap.h"
+
+1555686544 c:\users\leon\documents\upm\src\eval\heap.h
+
+1555686581 c:\users\leon\documents\upm\src\eval\clusterssimilarity.cpp
+	"ClustersSimilarity.h"
+
+1555686581 imilarity.h"
+
+1555687189 c:\users\leon\documents\upm\src\eval\clusterssimilarity.h
+
+1555686544 c:\users\leon\documents\upm\src\eval\heap.cpp
+	"Heap.h"
+
+1560720263 source:/home/leo/Desktop/UPM/main.cpp
+	"stdio.h"
+	"stdlib.h"
+	<stdint.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<algorithm>
+	"src/Statistics.cpp"
+	"src/Token.cpp"
+	"src/TokensLexicon.cpp"
+	"src/Combination.cpp"
+	"src/CombinationsLexicon.cpp"
+	"src/Product.cpp"
+	"src/Vendor.cpp"
+	"src/Cluster.cpp"
+	"src/ProductsClusters.cpp"
+	"src/ForwardIndex.cpp"
+	"src/eval/Evaluation.cpp"
+
+1557513315 /home/leo/Desktop/UPM/src/Statistics.cpp
+	"Statistics.h"
+
+1557513301 /home/leo/Desktop/UPM/src/Statistics.h
+
+1557514115 /home/leo/Desktop/UPM/src/Token.cpp
+	"Token.h"
+
+1541792724 /home/leo/Desktop/UPM/src/Token.h
+
+1557519431 /home/leo/Desktop/UPM/src/TokensLexicon.cpp
+	"TokensLexicon.h"
+
+1555334266 /home/leo/Desktop/UPM/src/TokensLexicon.h
+
+1560720209 /home/leo/Desktop/UPM/src/Combination.cpp
+	"Combination.h"
+
+1541698646 /home/leo/Desktop/UPM/src/Combination.h
+
+1555016798 /home/leo/Desktop/UPM/src/CombinationsLexicon.cpp
+	"CombinationsLexicon.h"
+
+1541536216 /home/leo/Desktop/UPM/src/CombinationsLexicon.h
+
+1556320942 /home/leo/Desktop/UPM/src/Product.cpp
+	"Product.h"
+
+1555344038 /home/leo/Desktop/UPM/src/Product.h
+
+1555723106 /home/leo/Desktop/UPM/src/Vendor.cpp
+	"Vendor.h"
+
+1555723099 /home/leo/Desktop/UPM/src/Vendor.h
+
+1557005407 /home/leo/Desktop/UPM/src/Cluster.cpp
+	"Cluster.h"
+
+1555723250 /home/leo/Desktop/UPM/src/Cluster.h
+
+1555685694 /home/leo/Desktop/UPM/src/ProductsClusters.cpp
+	"ProductsClusters.h"
+
+1555621886 /home/leo/Desktop/UPM/src/ProductsClusters.h
+
+1557534789 /home/leo/Desktop/UPM/src/ForwardIndex.cpp
+	"ForwardIndex.h"
+
+1555103940 /home/leo/Desktop/UPM/src/ForwardIndex.h
+
+1560720362 /home/leo/Desktop/UPM/src/eval/Evaluation.cpp
+	"Entity.cpp"
+	"EntityVendor.cpp"
+	"EntitiesCluster.cpp"
+	"ClustersSimilarity.cpp"
+	"Heap.cpp"
+	"Entities.cpp"
+
+1555600964 /home/leo/Desktop/UPM/src/eval/Entity.cpp
+	"Entity.h"
+
+1555600964 /home/leo/Desktop/UPM/src/eval/Entity.h
+
+1555628548 /home/leo/Desktop/UPM/src/eval/EntityVendor.cpp
+	"EntityVendor.h"
+
+1555628338 /home/leo/Desktop/UPM/src/eval/EntityVendor.h
+
+1557009004 /home/leo/Desktop/UPM/src/eval/EntitiesCluster.cpp
+	"EntitiesCluster.h"
+
+1556749813 /home/leo/Desktop/UPM/src/eval/EntitiesCluster.h
+
+1555704650 /home/leo/Desktop/UPM/src/eval/ClustersSimilarity.cpp
+	"ClustersSimilarity.h"
+
+1555704467 /home/leo/Desktop/UPM/src/eval/ClustersSimilarity.h
+
+1555708233 /home/leo/Desktop/UPM/src/eval/Heap.cpp
+	"Heap.h"
+
+1555705875 /home/leo/Desktop/UPM/src/eval/Heap.h
+
+1559327360 /home/leo/Desktop/UPM/src/eval/Entities.cpp
+	"Entities.h"
+
+1555717867 /home/leo/Desktop/UPM/src/eval/Entities.h
+
