@@ -62,5 +62,5 @@ The execution of this code is controlled by the lines 26-106 of `main.cpp`. More
 
 This code is completely freeware and it should be used for  scientific and non-commercial purposes.
 
-Leonidas Akritidis, 09/12/2018
+Leonidas Akritidis, 17/06/2019
 
