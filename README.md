@@ -60,9 +60,10 @@ The execution of this code is controlled by the lines 26-106 of `main.cpp`. More
       9. `aggregate` for the aggregate dataset which includes all the above products
 
 
-This code is completely freeware and it should be used for scientific and non-commercial purposes. Moreover, in the case they are used for research purposes, the researchers are kindly requested to include the following article into the References list of their published paper/s:
+This code is completely freeware and it should be used for scientific and non-commercial purposes. Moreover, in the case they are used for research purposes, the researchers are kindly requested to include the following article/s into the References list of their published paper/s:
 
-L. Akritidis, A. Fevgas, P. Bozanis, C. Makris, "A Self-Verifying Clustering Approach to Unsupervised Matching of Product Titles", Artificial Intelligence Review (Springer), pp. 1-44, 2020.
+ * L. Akritidis, A. Fevgas, P. Bozanis, C. Makris, "A Self-Verifying Clustering Approach to Unsupervised Matching of Product Titles", Artificial Intelligence Review (Springer), pp. 1-44, 2020.
+ * L. Akritidis, P. Bozanis, "Effective Unsupervised Matching of Product Titles with k-Combinations and Permutations", In Proceedings of the 14th IEEE International Conference on Innovations in Intelligent Systems and Applications (INISTA), pp. 1-10, 2018. 
 
 Leonidas Akritidis, 14/02/2020
 
