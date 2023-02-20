@@ -1,6 +1,8 @@
 # UPM
 Unsupervised Products Matching via Clustering, Combinatorics and Post-Processing Verification
 
+**This code is outdated. Please see my updated [SHTECLib](https://github.com/lakritidis/SHTECLib) library on short text clustering**
+
 This project implements the **UPM** unsupervised algorithm for matching products by considering their titles only. **UPM** performs morphological analysis of the titles, identifies crucial semantics (such as models and attributes), and then creates variable-sized combinations of tokens from each title. The combinations are later scored according to several criteria and the most appropriate combination will constitute the cluster of a product. In addition, **UPM** includes a post-processing verification stage that refines the initial clusters by correcting the erroneous matches. This verification stage is applicable to all clustering algorithms and enhances their performance by a substantial margin.
 
 To evaluate the performance of **UPM**, this code also contains implementations of 3 popular generic clustering methods, namely, **Agglomeratice (Hierarchical) Clustering**, **DBSCAN**, and **Leader Clustering**. These algorithms can be executed either in their original form, or in combination with the aforementioned refinement stage (these are the **refined** versions). We also implemented several string similarity measures, including **Cosine Similarity**, **Jaccard index**, **Dice Coefficient**, and **Edit Similarity (Distance)**. Regarding the first three measures, there are two flavors: i) the original (baseline) form, and ii) the weighted form, where the plain token counts are replaced by IDF token weights.
