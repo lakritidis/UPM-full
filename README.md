@@ -1,4 +1,5 @@
-# UPM - This code is outdated. Please see my updated [SHTECLib](https://github.com/lakritidis/SHTECLib) library on short text clustering
+# UPM - This library is outdated and has been replaced by [SHTECLib](https://github.com/lakritidis/SHTECLib)
+
 Unsupervised Products Matching via Clustering, Combinatorics and Post-Processing Verification
 
 This project implements the **UPM** unsupervised algorithm for matching products by considering their titles only. **UPM** performs morphological analysis of the titles, identifies crucial semantics (such as models and attributes), and then creates variable-sized combinations of tokens from each title. The combinations are later scored according to several criteria and the most appropriate combination will constitute the cluster of a product. In addition, **UPM** includes a post-processing verification stage that refines the initial clusters by correcting the erroneous matches. This verification stage is applicable to all clustering algorithms and enhances their performance by a substantial margin.
